@@ -1,0 +1,13 @@
+{
+    "uid": 7080800,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "isActive": true,
+    "scores": [92, 84, 76, 88],
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zipCode": "12345"
+    }
+}
